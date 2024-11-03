@@ -21,7 +21,7 @@ Welcome to the **PC Assembly AR Game**, an interactive Unity3D experience where 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nasal-thanseer/PC-Assembly-AR-Game.git
+   git clone https://github.com/nasal-thanseer/reviveLAB.git
    ```
 2. Open the project in Unity.
 3. Install the necessary AR Foundation packages through Unity Package Manager.
