@@ -1,4 +1,4 @@
-# PC Assembly AR Game
+# reviveLAB
 
 Welcome to the **PC Assembly AR Game**, an interactive Unity3D experience where users can learn to assemble a personal computer in augmented reality (AR). This project is built with Unity3D and designed to run on AR-supported devices, allowing users to learn and interact with PC components in an immersive environment.
 
